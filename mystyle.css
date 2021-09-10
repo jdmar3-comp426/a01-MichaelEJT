@@ -73,4 +73,15 @@ div {
     width: 50%;
     background-color: powderblue;
 }
+#paragraph2 {
+    text-align: center;
+}
+#paragraph3 {
+    text-align: center;
+    color: aqua;
+}
+h2 {
+    color: red;
+    font:message-box;
+}
 
