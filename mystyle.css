@@ -7,11 +7,11 @@ body {
 }
 #paragraph1 {
     text-align: center;
-    color:turquoise
+    color:turquoise;
 }
 h1 {
     color: red;
-    font-style: italic;
+    font: italic;
     font-size: 40px;
     margin-left: 40px;
     border:yellow;
@@ -25,6 +25,7 @@ a.one:link {
     text-decoration: underline;
     position: relative;
     font-size: 25px;
+    font:menu
 }
 a.one:visited {
     color:slategrey;
@@ -40,6 +41,7 @@ a.two:link {
     text-decoration: underline;
     position: relative;
     font-size: 25px;
+    font:italic;
 }
 a.two:visited {
     color:slategrey;
@@ -55,6 +57,7 @@ a.three:link {
     text-decoration: underline;
     position: relative;
     font-size: 25px;
+    font:larger;
 }
 a.three:visited {
     color: slategrey;
