@@ -68,10 +68,10 @@ a.three:hover {
 a.three:active {
     color: blue;
 }
-div {
+div + p{
     height: 200px;
     width: 50%;
-    background-color: powderblue;
+    background-color: red;
 }
 #paragraph2 {
     width: 50px;
